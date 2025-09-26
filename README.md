@@ -21,9 +21,3 @@ Hands-on program covering fundamentals, network scanning, web-app testing, explo
 ## Typical tools used:
 Kali, Metasploitable, DVWA, Nmap, Wireshark, Burp Suite, Metasploit, OpenVAS/Nessus, ELK.
 
-## Contact
-ApexPlanet — https://www.apexplanet.in  
-Email: info@apexplanet.in
-
----
-*This repo documents my practical work and final project from the internship.*

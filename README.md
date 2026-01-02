@@ -15,7 +15,7 @@ Hands-on program covering fundamentals, network scanning, web-app testing, explo
 ## Key Deliverables
 - Scan & pentest reports (screenshots & notes)  
 - Scripts used during testing  
-- Demo videos (https://linkedin.com/in/abhaysingh2003)  
+- Demo videos (https://www.youtube.com/playlist?list=PLvwbstQATdnkixn9--qeR7sBirnk9xoIY) 
 - Final capstone report & 12-min presentation
 
 ## Typical tools used:
